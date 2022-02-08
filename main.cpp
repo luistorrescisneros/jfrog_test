@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    cout<< "Hello Docker Container on GitHub!"<<endl;
+    cout<< "Hello JFrog on GitHub!"<<endl;
 
     return 0;
 }
